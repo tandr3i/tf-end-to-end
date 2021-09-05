@@ -116,5 +116,3 @@ As discussed in the paper, this representation often misses the last barline.
 ## Contact: 
 
 * Jorge Calvo Zaragoza (jcalvo@dlsi.ua.es)
-
-# OMR_tf-end-to-end
